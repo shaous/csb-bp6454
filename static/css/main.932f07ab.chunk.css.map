@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,EACE,iBAAkB,CAClB,oBAAqB,CACrB,eACF,CACA,cACE,aACF","file":"main.932f07ab.chunk.css","sourcesContent":["* {\n  text-align: center;\n  font-family: \"Oswald\";\n  font-weight: 500;\n}\n* ::selection {\n  color: burlywood;\n}\n.App {\n}\n"]}
